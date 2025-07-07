@@ -32,7 +32,6 @@ This repository provides the official implementation of **FFDL** (Fluid Flow‐B
 
 ```
 FFDL_GCS/
-│
 ├── source/                 # Main codebase
 │   ├── model.py/           # Model definitions (FFDL core modules)
 │   └── utils.py            # Utility functions for training and data loading, etc.
