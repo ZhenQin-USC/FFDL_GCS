@@ -30,6 +30,7 @@ This repository provides the official implementation of **FFDL** (Fluid Flow‐B
 
 ## 📁 Repository Structure
 
+```
 FFDL_GCS/
 │
 ├── source/                 # Main codebase
@@ -39,6 +40,7 @@ FFDL_GCS/
 ├── main_train.py           # Scripts to generate data from raw .mat files
 ├── requirements.txt        # Required packages (to be uploaded...)
 └── README.md               # Project description (this file)
+```
 
 ---
 
