@@ -14,6 +14,9 @@ Official implementation of the paper:
 
 ## 🧠 Overview
 
+**Graphical Abstract**  
+![Graphical Abstract](figures/Figure1.jpg)
+
 This repository provides the official implementation of **FFDL** (Fluid Flow‐Based Deep Learning), a novel deep learning architecture for subsurface flow modeling, particularly designed for **geologic CO₂ storage** (CCS).
 
 ---
